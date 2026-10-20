@@ -1,0 +1,23 @@
+{
+  "name": "BrightPath Tutorials",
+  "slug": "brightpath-tutorials",
+  "concept": "After-school tutorials",
+  "category": "education-learning",
+  "subcategory": "tutorials",
+  "description": "Cheerful tutorial-centre page: subject timetable grid, class-size promise, WAEC/JAMB prep tracks and a parents FAQ panel.",
+  "design_family": "bright-school",
+  "pages": [
+    "index.html"
+  ],
+  "features": [
+    "subject timetable grid",
+    "exam-prep track cards",
+    "class-size promise panel",
+    "results stat strip",
+    "parents FAQ details",
+    "fees table"
+  ],
+  "recommended_tier": "free-or-pro-review",
+  "preview_image": "preview/cover.png",
+  "status": "local-draft"
+}
